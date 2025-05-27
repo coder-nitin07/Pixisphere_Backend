@@ -1,0 +1,29 @@
+# Node modules
+/node_modules/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+bower_components/
+
+# Build directories
+dist/
+build/
+
+# Coverage
+coverage/
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# npm package lock
+package-lock.json
